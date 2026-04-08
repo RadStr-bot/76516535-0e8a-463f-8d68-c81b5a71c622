@@ -1,18 +1,16 @@
 {
-  "iri": "76516535-0e8a-463f-8d68-c81b5a71c622",
-  "projectIri": "76516535-0e8a-463f-8d68-c81b5a71c622",
+  "iri": "fe3a131a-cfba-4bca-beb4-ceb18f751d2f",
+  "projectIri": "e82acf3c-cc86-46fc-a836-fff000295f9a",
   "types": [
     "http://dataspecer.com/resources/local/package"
   ],
   "userMetadata": {
-    "label": {
-      "cs": "CSCsdaaS"
-    },
+    "label": {},
     "description": {}
   },
   "metadata": {
-    "creationDate": "2026-04-07T23:46:35.974Z",
-    "modificationDate": "2026-04-08T15:04:34.125Z"
+    "creationDate": "2026-04-08T15:03:47.904Z",
+    "modificationDate": "2026-04-08T15:04:03.324Z"
   },
   "_version": 1,
   "_exportVersion": 2,
