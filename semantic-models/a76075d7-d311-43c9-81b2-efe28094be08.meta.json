@@ -1,16 +1,16 @@
 {
-  "iri": "6d1ed7bf-1219-46bc-b72f-4dbd1c703b6b",
+  "iri": "c3ef68bc-64db-4370-bdb4-c4f69fdb416a",
   "projectIri": "a76075d7-d311-43c9-81b2-efe28094be08",
   "types": [
     "http://dataspecer.com/resources/local/semantic-model"
   ],
   "userMetadata": {},
   "metadata": {
-    "creationDate": "2026-04-08T15:03:42.245Z",
-    "modificationDate": "2026-04-08T15:03:42.416Z"
+    "creationDate": "2026-04-08T15:04:56.505Z",
+    "modificationDate": "2026-04-08T15:04:56.672Z"
   },
   "_version": 1,
   "_exportVersion": 2,
-  "_exportedAt": "2026-04-08T15:04:40.666Z",
+  "_exportedAt": "2026-04-08T15:05:13.992Z",
   "_exportedBy": "http://localhost:3100"
 }

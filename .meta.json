@@ -1,5 +1,5 @@
 {
-  "iri": "76516535-0e8a-463f-8d68-c81b5a71c622",
+  "iri": "28035c13-d3ad-40cd-a353-0c97bfbae7fe",
   "projectIri": "76516535-0e8a-463f-8d68-c81b5a71c622",
   "types": [
     "http://dataspecer.com/resources/local/package"
@@ -11,11 +11,11 @@
     "description": {}
   },
   "metadata": {
-    "creationDate": "2026-04-07T23:46:35.974Z",
-    "modificationDate": "2026-04-08T15:04:34.125Z"
+    "creationDate": "2026-04-08T15:04:56.395Z",
+    "modificationDate": "2026-04-08T15:04:56.822Z"
   },
   "_version": 1,
   "_exportVersion": 2,
-  "_exportedAt": "2026-04-08T15:04:40.674Z",
+  "_exportedAt": "2026-04-08T15:05:14.002Z",
   "_exportedBy": "http://localhost:3100"
 }
